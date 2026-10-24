@@ -1,6 +1,6 @@
 # SoulRadar — Where Is My Soulmate? 🌌
 
-[![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Website](https://img.shields.io/badge/Live%20Demo-soulradar.github.io-7C0E44)](https://soulradar.github.io/)
 [![Ko-fi](https://img.shields.io/badge/Support-Ko--fi-FF5E5B?logo=kofi&logoColor=white)](https://ko-fi.com/kishara)
 [![PWA](https://img.shields.io/badge/PWA-100%25%20Offline-success)](#offline-pwa)
@@ -165,4 +165,4 @@ SoulRadar is 100% free, open-source, and privacy-respecting. If this project bro
 
 ## 📄 License
 
-Distributed under the Apache 2.0 License. See `LICENSE` for details.
+Distributed under the MIT License. See `LICENSE` for details.

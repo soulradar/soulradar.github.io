@@ -1,0 +1,6 @@
+{
+  "name": "SoulRadar — Where Is My Soulmate?",
+  "description": "Find your soulmate country with deterministic astrology, zodiac alignment, and life path numerology. Generate aesthetic share cards and discover where your love energy resonates worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

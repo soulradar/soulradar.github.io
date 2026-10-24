@@ -1,0 +1,20 @@
+{
+  "name": "SoulRadar — Where Is My Soulmate?",
+  "short_name": "SoulRadar",
+  "description": "Find your soulmate country with deterministic astrology, zodiac alignment, and life path numerology.",
+  "start_url": "/",
+  "id": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFFDFB",
+  "theme_color": "#7C0E44",
+  "categories": ["lifestyle", "entertainment"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

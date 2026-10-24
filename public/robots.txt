@@ -1,0 +1,5 @@
+# Robots.txt for SoulRadar — https://soulradar.github.io/
+User-agent: *
+Allow: /
+
+Sitemap: https://soulradar.github.io/sitemap.xml
